@@ -11,7 +11,7 @@
 | iw5_fad        | iw5_pp90m1 | iw5_sa80     | iw5_msr       | iw5_aa12       |             | iw5_skorpion          | iw5_mp412       | stinger           |
 | iw5_acr        | iw5_ump45  | iw5_mg36     | iw5_l96a1     | iw5_usas12     |             |                       | iw5_p99         | xm25              |
 | iw5_type95     | iw5_ak74u  |              | iw5_as50      | iw5_spas12     |             |                       | iw5_fnfiveseven | javelin           |
-| iw5_mk14       |            | iw5_cheytac  |               |                |             |                       |                 |                   |
+| iw5_mk14       |            |              | iw5_cheytac   |                |             |                       |                 |                   |
 | iw5_scar       |            |              |               |                |             |                       |                 |                   |
 | iw5_g36c       |            |              |               |                |             |                       |                 |                   |
 | iw5_cm901      |            |              |               |                |             |                       |                 |                   |
