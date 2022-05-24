@@ -17,7 +17,7 @@
 # <a name="how-to-use"></a>How To Use
 - Place the script file at "%localappdata%/plutonium/storage/iw5/scripts" if the folder does not exist, create it
 - To configure the script you can set the following dvars in your server config or in the game console
-- To replace items you must use the following format "currentitem;newitem" to their respective dvar. 
+- To replace items you must use the following format "currentitem:newitem" to their respective dvar. 
 - Example: >cr_equipment concussion_grenade_mp:none
 
 - Dvars:
