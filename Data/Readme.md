@@ -35,7 +35,7 @@
 
 | weapon_assault               | weapon_smg            | weapon_lmg                  | weapon_sniper               | weapon_shotgun        | weapon_riot           | weapon_machine_pistol | weapon_pistol | weapon_projectile |
 |------------------------------|-----------------------|-----------------------------|-----------------------------|-----------------------|-----------------------|-----------------------|---------------|-------------------|
-| none                         | none                  | none                        | none                        | none                  | none                  |                       |               |                   |
+| specialty_null               | specialty_null        | specialty_null              | specialty_null              | specialty_null        | specialty_null        |                       |               |                   |
 | specialty_marksman           | specialty_marksman    | specialty_marksman          | specialty_marksman          | specialty_marksman    | specialty_fastermelee |                       |               |                   |
 | specialty_bulletpenetration  | specialty_longerrange | specialty_bulletpenetration | specialty_bulletpenetration | specialty_sharp_focus | specialty_lightweight |                       |               |                   |
 | specialty_bling              | specialty_bling       | specialty_bling             | specialty_bling             | specialty_bling       |                       |                       |               |                   |
@@ -78,6 +78,7 @@
 
 | frag            | other            | throwingknife    | flash             | smoke                 |
 |-----------------|------------------|------------------|-------------------|-----------------------|
+| specialty_null  | specialty_null   | specialty_null   | specialty_null    | specialty_null        |
 | frag_grenade_mp | semtex_mp        | throwingknife_mp | flash_grenade_mp  | concussion_grenade_mp |
 |                 | bouncingbetty_mp |                  | scrambler_mp      | smoke_grenade_mp      |
 |                 | claymore_mp      |                  | emp_grenade_mp    |                       |
@@ -87,9 +88,9 @@
 
 ## Perks
 
-| Perks1                 | Perks2                 | Perk3                     |
+| perks1                 | perks2                 | perk3                     |
 |------------------------|------------------------|---------------------------|
-| none                   | none                   | none                      |
+| specialty_null         | specialty_null         | specialty_null            |
 | specialty_longersprint | specialty_hardline     | specialty_detectexplosive |
 | specialty_fastreload   | specialty_coldblooded  | specialty_autospot        |
 | specialty_scavenger    | specialty_quickdraw    | specialty_bulletaccuracy  |
@@ -100,7 +101,7 @@
 # Streaks
 | streaktype_support       | streaktype_specialist        | assaultStreaks         |   | DeathStreak                |
 |--------------------------|------------------------------|------------------------|---|----------------------------|
-| none                     | none                         | none                   |   | none                       |
+| none                     | none                         | none                   |   | specialty_null             |
 | uav_support              | specialty_longersprint_ks    | uav                    |   | specialty_juiced           |
 | counter_uav              | specialty_fastreload_ks      | airdrop_assault        |   | specialty_grenadepulldeath |
 | deployable_vest          | specialty_scavenger_ks       | ims                    |   | specialty_finalstand       |
